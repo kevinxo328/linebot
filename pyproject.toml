@@ -11,6 +11,8 @@ fastapi = "^0.95.1"
 uvicorn = "^0.22.0"
 load-dotenv = "^0.1.0"
 line-bot-sdk = "^2.4.2"
+langchain = "^0.0.165"
+openai = "^0.27.6"
 
 
 [build-system]
